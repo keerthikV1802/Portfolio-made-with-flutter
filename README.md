@@ -35,7 +35,7 @@ Responsive Layouts
 
 Firebase Hosting / GitHub Pages (for deployment)
 
-📂 Project Structure
+Project structure :
 lib/
 ├── sections/
 │   ├── home_section.dart
