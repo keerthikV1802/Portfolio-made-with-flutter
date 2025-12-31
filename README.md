@@ -1,16 +1,51 @@
-# portfolio_website
+🌐 Personal Web Portfolio – Flutter Web
 
-A new Flutter project.
+A modern, responsive personal portfolio website built using Flutter Web, showcasing my projects, skills, and experience as a Flutter developer.
 
-## Getting Started
+🚀 Overview
 
-This project is a starting point for a Flutter application.
+This portfolio website is designed to present my Flutter projects, technical skills, and professional profile in a clean and minimal format.
+Built using Flutter Web, the site is fast, responsive, and deployable on modern web hosting platforms.
 
-A few resources to get you started if this is your first Flutter project:
+✨ Key Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+📱 Responsive UI (Desktop & Mobile)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🎨 Clean and modern design
+
+🧭 Smooth navigation
+
+🗂️ Projects showcase section
+
+🧠 Skills & tech stack display
+
+📄 About & contact sections
+
+⚡ Optimized Flutter Web build
+
+🛠️ Tech Stack
+
+Flutter Web
+
+Dart
+
+Material UI
+
+Responsive Layouts
+
+Firebase Hosting / GitHub Pages (for deployment)
+
+📂 Project Structure
+lib/
+├── sections/
+│   ├── home_section.dart
+│   ├── about_section.dart
+│   ├── skills_section.dart
+│   ├── projects_section.dart
+│   ├── contact_section.dart
+├── widgets/
+│   ├── project_card.dart
+│   ├── skill_chip.dart
+├── utils/
+│   ├── constants.dart
+├── main.dart
